@@ -1,4 +1,4 @@
-# ToDo App using TypeScript+React(Demo)
+# ToDo App using TypeScript+React (Demo)
 
 # Overview
 
@@ -14,4 +14,4 @@ Todo App is a simple and efficient task management application built using React
 - React
 - TypeScript
 
-Visit the Demo at: https://todoappbyts.netlify.app/
+Visit the Demo at: https://todoappbyts.netlify.app
